@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/Singlerr/Downloads/Root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Waktaverse (Minecraft 1.12.2)",
+    "description": "Waktaverse Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
+    "address": "trainstation.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2855"
+  },
+  "untrackedFiles": []
+}
