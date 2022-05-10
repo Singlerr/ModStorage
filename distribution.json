@@ -256,7 +256,7 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_jk_electrics_2.3:0.0.0@zip",
+          "id": "generated.forgemod:modelpack_jk_electrics_2.3:0.0.0@jar",
           "name": "ModelPack_jk_electrics_2.3",
           "type": "ForgeMod",
           "artifact": {
@@ -266,7 +266,7 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_rtm_holic_pack_20211215:0.0.0@zip",
+          "id": "generated.forgemod:modelpack_rtm_holic_pack_20211215:0.0.0@jar",
           "name": "ModelPack_RTM_Holic_Pack_20211215",
           "type": "ForgeMod",
           "artifact": {
