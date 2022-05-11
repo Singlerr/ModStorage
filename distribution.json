@@ -234,6 +234,78 @@
               }
             }
           ]
+        },
+        {
+          "id": "mod.chiselsandbits.core:chiselsandbits:14.29@jar",
+          "name": "Chisels & Bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 730497,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ChiselsandBits_1.12.2_14.29.jar",
+            "MD5": "08229bd6802b8a85039d5caa82637d1f"
+          }
+        },
+        {
+          "id": "com.phylogeny:extrabitmanipulation:1.12.2-3.4.1@jar",
+          "name": "Extra Bit Manipulation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3834020,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ExtraBitManipulation-1.12.2-3.4.1.jar",
+            "MD5": "0e748d7c4e9f5724ef8daa997334fa02"
+          }
+        },
+        {
+          "id": "jp.ngt:ngtlib:2.4.19@jar",
+          "name": "NGTLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 369316,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/NGTLib2.4.19-35_forge-1.12.2-14.23.2.2611.jar",
+            "MD5": "5fd443e729fc3895d6bc9289f01f4353"
+          }
+        },
+        {
+          "id": "jp.ngt:rtm:2.4.22@jar",
+          "name": "RealTrainMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19201172,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTM2.4.22-40_forge-1.12.2-14.23.2.2611.jar",
+            "MD5": "15b834898ef83fc234cffb0cc1e64c8d"
+          }
+        },
+        {
+          "id": "io.github.singlerr:rtmplus:1.0@jar",
+          "name": "RTMPlus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15603,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
+            "MD5": "3f7dafa9b1097950232e798029796180"
+          }
+        },
+        {
+          "id": "ModelPack_RTM_Holic_Pack_20211215.zip",
+          "name": "ModelPack_RTM_Holic_Pack_20211215.zip",
+          "type": "File",
+          "artifact": {
+            "size": 38139313,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/files/ModelPack_RTM_Holic_Pack_20211215.zip",
+            "MD5": "3b208caa3e92aae22cc14f416a3efece",
+            "path": "ModelPack_RTM_Holic_Pack_20211215.zip"
+          }
+        },
+        {
+          "id": "ModelPack_jk_electrics_2.3.zip",
+          "name": "ModelPack_jk_electrics_2.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 21551850,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/files/ModelPack_jk_electrics_2.3.zip",
+            "MD5": "5289b9e8707e766746098076e9736cf3",
+            "path": "ModelPack_jk_electrics_2.3.zip"
+          }
         }
       ]
     }
