@@ -13,14 +13,14 @@
       "description": "Waktaverse Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "trainstation.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -261,8 +261,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 369316,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/NGTLib2.4.19-35_forge-1.12.2-14.23.2.2611.jar",
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/NGTLib2.4.19-35_forge-1.12.2-14.23.2.2611.jar",
             "MD5": "5fd443e729fc3895d6bc9289f01f4353"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -271,8 +274,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19201172,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTM2.4.22-40_forge-1.12.2-14.23.2.2611.jar",
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/RTM2.4.22-40_forge-1.12.2-14.23.2.2611.jar",
             "MD5": "15b834898ef83fc234cffb0cc1e64c8d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -281,8 +287,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15603,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/RTMPlus-1.0-SNAPSHOT.jar",
             "MD5": "3f7dafa9b1097950232e798029796180"
+          },
+          "required": {
+            "value": false
           }
         },
         {
