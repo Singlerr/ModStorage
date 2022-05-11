@@ -256,26 +256,6 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_jk_electrics_2.3:0.0.0@jar",
-          "name": "ModelPack_jk_electrics_2.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21551850,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_jk_electrics_2.3.zip",
-            "MD5": "5289b9e8707e766746098076e9736cf3"
-          }
-        },
-        {
-          "id": "generated.forgemod:modelpack_rtm_holic_pack_20211215:0.0.0@jar",
-          "name": "ModelPack_RTM_Holic_Pack_20211215",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 38139313,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_RTM_Holic_Pack_20211215.zip",
-            "MD5": "3b208caa3e92aae22cc14f416a3efece"
-          }
-        },
-        {
           "id": "jp.ngt:ngtlib:2.4.19@jar",
           "name": "NGTLib",
           "type": "ForgeMod",
@@ -303,6 +283,28 @@
             "size": 15603,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
             "MD5": "3f7dafa9b1097950232e798029796180"
+          }
+        },
+        {
+          "id": "ModelPack_RTM_Holic_Pack_20211215.zip",
+          "name": "ModelPack_RTM_Holic_Pack_20211215.zip",
+          "type": "File",
+          "artifact": {
+            "size": 38139313,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/files/ModelPack_RTM_Holic_Pack_20211215.zip",
+            "MD5": "3b208caa3e92aae22cc14f416a3efece",
+            "path": "ModelPack_RTM_Holic_Pack_20211215.zip"
+          }
+        },
+        {
+          "id": "ModelPack_jk_electrics_2.3.zip",
+          "name": "ModelPack_jk_electrics_2.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 21551850,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/files/ModelPack_jk_electrics_2.3.zip",
+            "MD5": "5289b9e8707e766746098076e9736cf3",
+            "path": "ModelPack_jk_electrics_2.3.zip"
           }
         }
       ]
