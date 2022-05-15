@@ -11,7 +11,7 @@
       "id": "Waktaverse-1.12.2",
       "name": "Waktaverse (Minecraft 1.12.2)",
       "description": "Waktaverse Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/Waktaverse-1.12.2.png",
       "version": "1.0.0",
       "address": "trainstation.kro.kr",
       "minecraftVersion": "1.12.2",
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
@@ -303,6 +303,17 @@
             "size": 15603,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
             "MD5": "3f7dafa9b1097950232e798029796180"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 71,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/files/servers.dat",
+            "MD5": "6c2bde79d081dbd882e4ee87911cfcf4",
+            "path": "servers.dat"
           }
         }
       ]
