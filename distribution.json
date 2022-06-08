@@ -256,16 +256,6 @@
           }
         },
         {
-          "id": "com.anatawa12.fixrtm.jarinjar:fixrtm:2.0.20@jar",
-          "name": "FixRtm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3398286,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/fixRtm-2.0.20.jar",
-            "MD5": "625c79e7f02d2b72c7fedfe6c253bc66"
-          }
-        },
-        {
           "id": "generated.forgemod:modelpack_jk_electrics_2.3:0.0.0@jar",
           "name": "ModelPack_jk_electrics_2.3",
           "type": "ForgeMod",
