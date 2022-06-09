@@ -256,23 +256,23 @@
           }
         },
         {
-          "id": "generated.forgemod:modelpack_jk_electrics_2.3:0.0.0@jar",
-          "name": "ModelPack_jk_electrics_2.3",
+          "id": "generated.forgemod:modelpack_nak_o_korail_220309:0.0.0@jar",
+          "name": "ModelPack_Nak_O_Korail_220309",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21551850,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_jk_electrics_2.3.zip",
-            "MD5": "5289b9e8707e766746098076e9736cf3"
+            "size": 43334705,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_Nak_O_Korail_220309.zip",
+            "MD5": "51f16df04e5a93fe266d9f44b003a91a"
           }
         },
         {
-          "id": "generated.forgemod:modelpack_rtm_holic_pack_20211215:0.0.0@jar",
-          "name": "ModelPack_RTM_Holic_Pack_20211215",
+          "id": "generated.forgemod:modelpack_pc28ksoundlib_revision:0.0.0@jar",
+          "name": "ModelPack_pc28ksoundlib_revision",
           "type": "ForgeMod",
           "artifact": {
-            "size": 38138769,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_RTM_Holic_Pack_20211215.zip",
-            "MD5": "080f7d4199b37d9ade578ce5a6b58c69"
+            "size": 3286803,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_pc28ksoundlib_revision.zip",
+            "MD5": "1dcc19ee2f807487b3e36c140e0924f9"
           }
         },
         {
@@ -300,9 +300,9 @@
           "name": "RTMPlus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15603,
+            "size": 17538,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
-            "MD5": "3f7dafa9b1097950232e798029796180"
+            "MD5": "421e4205714f1679f855d92dcf191ae0"
           }
         },
         {
