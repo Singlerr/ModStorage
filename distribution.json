@@ -296,6 +296,16 @@
           }
         },
         {
+          "id": "fr.nathanael2611.modularvoicechat:modularvc:1.1.1@jar",
+          "name": "ModularVoiceChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2136421,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModularVoiceChat-1.1.1.jar",
+            "MD5": "6d0d12edbb8968568b3608f6e4a107ac"
+          }
+        },
+        {
           "id": "jp.ngt:ngtlib:2.4.19@jar",
           "name": "NGTLib",
           "type": "ForgeMod",
