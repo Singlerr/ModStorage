@@ -28,8 +28,8 @@
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 4300067,
-            "MD5": "cd427990b3157ce734aa9891e744136d",
+            "size": 4411674,
+            "MD5": "93ad53b6db51b110b417e3c907f2c908",
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
           },
           "subModules": [
@@ -39,7 +39,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 11797,
-                "MD5": "0bfacd3ab033b8705881114d5dedbf78",
+                "MD5": "b926dab7fc3902299e92240ecb86d3d9",
                 "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
               }
             },
@@ -266,6 +266,45 @@
           }
         },
         {
+          "id": "io.github.singlerr:EsquisseMisc:1.0-SNAPSHOT@jar",
+          "name": "EsquisseMisc",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20220,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/EsquisseMisc-1.0-SNAPSHOT.jar",
+            "MD5": "cbe18f209b1dfcf93cdbf83eb94af56d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.github.singlerr:EsquisseSkinChanger:1.0-SNAPSHOT@jar",
+          "name": "EsquisseSkinChanger",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13630,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/EsquisseSkinChanger-1.0-SNAPSHOT.jar",
+            "MD5": "e5d641b27db0443e51a3ec2bab14f0e1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.github.singlerr:EsquisseV2:1.0-SNAPSHOT@jar",
+          "name": "EsquisseV2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10545234,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/EsquisseV2-1.0-SNAPSHOT.jar",
+            "MD5": "9c4fa777f6025ab4137ea7442d4a0e7a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.phylogeny:extrabitmanipulation:1.12.2-3.4.1@jar",
           "name": "Extra Bit Manipulation",
           "type": "ForgeMod",
@@ -273,6 +312,16 @@
             "size": 3834020,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ExtraBitManipulation-1.12.2-3.4.1.jar",
             "MD5": "0e748d7c4e9f5724ef8daa997334fa02"
+          }
+        },
+        {
+          "id": "generated.forgemod:modelpack_jk_electrics_2.3:0.0.0@jar",
+          "name": "ModelPack_jk_electrics_2.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21551850,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_jk_electrics_2.3.zip",
+            "MD5": "5289b9e8707e766746098076e9736cf3"
           }
         },
         {
@@ -293,6 +342,16 @@
             "size": 3286803,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_pc28ksoundlib_revision.zip",
             "MD5": "1dcc19ee2f807487b3e36c140e0924f9"
+          }
+        },
+        {
+          "id": "generated.forgemod:modelpack_rtm_holic_pack_20211215:0.0.0@jar",
+          "name": "ModelPack_RTM_Holic_Pack_20211215",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38138769,
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/ModelPack_RTM_Holic_Pack_20211215.zip",
+            "MD5": "080f7d4199b37d9ade578ce5a6b58c69"
           }
         },
         {
@@ -330,9 +389,9 @@
           "name": "RTMPlus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17538,
+            "size": 817446,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
-            "MD5": "421e4205714f1679f855d92dcf191ae0"
+            "MD5": "939e5313a84544d8389301cf2022be44"
           }
         },
         {
