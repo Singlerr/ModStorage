@@ -271,11 +271,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20220,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/EsquisseMisc-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/EsquisseMisc-1.0-SNAPSHOT.jar",
             "MD5": "cbe18f209b1dfcf93cdbf83eb94af56d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -284,11 +281,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13630,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/EsquisseSkinChanger-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/EsquisseSkinChanger-1.0-SNAPSHOT.jar",
             "MD5": "e5d641b27db0443e51a3ec2bab14f0e1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -297,11 +291,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10545234,
-            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/optionalon/EsquisseV2-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/EsquisseV2-1.0-SNAPSHOT.jar",
             "MD5": "9c4fa777f6025ab4137ea7442d4a0e7a"
-          },
-          "required": {
-            "value": false
           }
         },
         {
