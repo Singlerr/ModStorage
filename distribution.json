@@ -380,9 +380,9 @@
           "name": "RTMPlus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 818194,
+            "size": 819243,
             "url": "https://raw.githubusercontent.com/Singlerr/ModStorage/main/servers/Waktaverse-1.12.2/forgemods/required/RTMPlus-1.0-SNAPSHOT.jar",
-            "MD5": "0117b8c9699136c56e54822fd37d5d7d"
+            "MD5": "6994a5b037e8420e7019aaa42d06a0d2"
           }
         },
         {
